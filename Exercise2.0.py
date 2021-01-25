@@ -1,0 +1,5 @@
+print("Justin Parrott");
+print("1/19/2021");
+print("At what size of project should you start using a version management software?");
+print("Why?");
+print("I think that any size project would benefit from a version management software. Even a very small project can be difficult to remember when and what changes have been made. If a project isn’t going to be distributed or developed by others, it would still help the organization and professional look of the project and its files. Large projects would almost be impossible to keep organized or debug without a version management software. Files would be spread out all over and changes one person made might not end up in the code another person is working with. If there was an error it would be hard to pinpoint when the bug started. It could just be limited to the person that wrote the part of the software with the bug. Using a version management software also makes it easier for users who download the software to stay up to date, or to know if they should update.");
